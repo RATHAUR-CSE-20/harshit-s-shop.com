@@ -1,0 +1,90 @@
+h2{
+   color: cyan;
+   text-align: center;
+
+}
+body{
+   background-color: rgb(251, 127, 220);
+}
+h3{
+   font-family: cursive;
+   padding-left: 20px;
+   color: beige;
+}
+.btn{
+   color: red;
+   background: yellow;
+}
+.btn:hover{
+   color: white;
+   background-color: blue;
+   cursor:grab;
+}
+.register{
+   border: 10px solid rgb(236, 56, 56);
+   border-radius: 400px;
+   background-color: rgb(61, 61, 241);
+   font-size: 20px;
+   color: white;
+}
+#bookstore{
+   background-color: rgb(212, 146, 232);
+}
+#confirm{
+   background-color: YELLOW;
+}
+.CONFIRM{
+   background-color: rgb(240, 15, 199);
+   color: white;
+}
+.CONFIRM:hover{
+   color: white;
+   background-color: rgb(77, 255, 0);
+   cursor:grab;  
+   border-radius: 2px;
+
+}
+.second{
+   background-color:purple ;
+   border: 2px solid black;
+   border-radius: 20px;
+   text-align: center;
+   color: white;
+}
+.register1{
+   font-size: 20px;
+   color: white;
+   color: yellow;
+}
+#WOW{
+   color: aliceblue;
+   text-align: center;
+   border-radius: 15px;
+   background-color: deeppink;
+   border: 2px solid black;
+   font-size: 40px;
+}
+#online{
+  color:grey ;
+}
+#input{
+   color: aqua;
+   border: 2px solid black;
+   border-width: 3px;
+   border-radius: 20px;
+   background-color: blue;
+   margin-left: 250px;
+   margin-right: 250px;
+   font-size: 40px;
+}
+#smt{
+   font-size: 30px;
+   
+}
+#harshit{
+   width: 150px;
+   height: 150px;
+   position: center;
+   padding-left: 600px;
+
+}
